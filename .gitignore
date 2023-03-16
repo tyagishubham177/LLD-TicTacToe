@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+packages/
+AppPackages/
+BundleArtifacts/
+*.user
+*.log
+*.orig
+UpgradeLog*
+AppPackages/
+BundleArtifacts/ 
